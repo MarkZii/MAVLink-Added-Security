@@ -18,3 +18,5 @@ To use the "secure" dialect it is important to follow these steps:
 Useful links:
  - [Link 1](https://mavlink.io/en/mavgen_python/#getting-the-python-mavlink-libraries).
  - [Link 2](https://mavlink.io/en/getting_started/generate_libraries.html).
+
+For more details, please read the "Report_Project_Network_Security.pdf".
